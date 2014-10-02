@@ -1,0 +1,8 @@
+c:\Users\Alexsey\Documents\GitHub\CSG_prototype\CSGSystem\bin\Debug\CSGSystem.exe
+c:\Users\Alexsey\Documents\GitHub\CSG_prototype\CSGSystem\bin\Debug\CSGSystem.pdb
+c:\Users\Alexsey\Documents\GitHub\CSG_prototype\CSGSystem\obj\Debug\CSGSystem.csprojResolveAssemblyReference.cache
+c:\Users\Alexsey\Documents\GitHub\CSG_prototype\CSGSystem\obj\Debug\CSGSystem.MainForm.resources
+c:\Users\Alexsey\Documents\GitHub\CSG_prototype\CSGSystem\obj\Debug\CSGSystem.Properties.Resources.resources
+c:\Users\Alexsey\Documents\GitHub\CSG_prototype\CSGSystem\obj\Debug\CSGSystem.csproj.GenerateResource.Cache
+c:\Users\Alexsey\Documents\GitHub\CSG_prototype\CSGSystem\obj\Debug\CSGSystem.exe
+c:\Users\Alexsey\Documents\GitHub\CSG_prototype\CSGSystem\obj\Debug\CSGSystem.pdb
